@@ -1,0 +1,5 @@
+gigante O, 100, azul, 1000000, 1423252 , /imagenes/img1.jpg
+gigante B, 100, blanca1000000, 1423252 , /imagenes/img2.jpg
+enana A, 100, blanca,1000000, 1423252 , /imagenes/img3.jpg
+gigante azul, 100, azul, 1000000, 1423252 , /imagenes/img4.jpg
+gigante azul, 100, azul, 1000000, 1423252 , /imagenes/img20.jpg

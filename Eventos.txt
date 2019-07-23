@@ -1,0 +1,17 @@
+01-07-2019,00:00:00,Lluvia de Sagitáridas,0
+01-07-2019,00:00:00,Lluvia de Boötidas de Junio,0
+02-07-2019,14:16:00,Luna nueva,0
+02-07-2019,23:59:00,Fin Lluvia de Boötidas de Junio,0
+03-07-2019,00:00:00,Inicio Lluvia de Alfa-Capricornidas,0
+07-07-2019,00:00:00,Inicio Lluvia de Pegásidas,0
+08-07-2019,5:55:00,Cuarto creciente,0
+09-07-2019,00:00:00,,0
+09-07-2019,00:00:00,Máximo de Pegásidas,0
+10-07-2019,00:00:00,Inicio Lluvia de Fenícidas de Julio,0
+16-07-2019,4:38:00,Luna Llena,0
+15-07-2019,23:59:00,Fin Lluvia de Sagitáridas,0
+24-07-2019,20:18:00,Cuarto Menguante,0
+27-07-2019,12:00:00,luuvia de meteoros,0
+02-09-2019,12:30:00,Estella fugaz A1,0
+10-11-2019,13:00:00,LLuvia Leónidas,0
+22-07-2019,10:20:00,hola,0
